@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/docker-library/repo-info) 
+
 # Official Images "Extended Information"
 
 This repository includes a set of scripts for generating reports of extended information about published official image repositories.
